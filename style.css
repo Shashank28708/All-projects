@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+.homepage1{
+    height: 800px;
+    width: 100%;
+}
+.title{
+    background-color: rgb(140, 215, 215);
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    margin-top: 5px;
+}
+.img1{
+    background-size: cover;
+    height: 650px;
+    margin-top: 10px;
+}
+.Project1 h2{
+    margin-top: 5px;
+    color: white;
+    height: 40px;
+    width: 100%;
+    background-color: rgb(5, 5, 47);
+}
+.Project1 h2 :hover{
+    font-size: 30px;
+   background-color: black;
+}
+.homepage2{
+    height: 850px;
+    width: 100%;
+
+}
+.project2 h2{
+    color: white;
+    height: 40px;
+    width: 100%;
+    background-color: rgb(5, 5, 47);
+    margin-top: 45px;
+}
+.project2 h2 :hover{
+    font-size: 30px;
+   background-color: black;
+    
+}
+
+.img2{
+    background-size: cover;
+    height: 730px;
+    margin-top: 10px;
+}
+hr{
+    height: 2px;
+    background: black;
+}
+.project3{
+    height: 250px;
+}
+.project3 h2{
+    color: white;
+    height: 40px;
+    width: 100%;
+    background-color: rgb(5, 5, 47);
+    margin-top: 45px;
+}
+.project3 h3{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+.project3_link{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.project3_link p{
+    width:fit-content;
+    height: 35px;
+    font-size: 30px;
+    font-weight: bolder;
+    border: 1px solid black;
+    border-radius: 20%;
+    color: rgb(60, 122, 101);
+    background-color: black;
+}
+.project3_link a{
+    text-decoration: none; 
+}
+.project3 h2 :hover{
+    font-size: 30px;
+   background-color: black;
+}
+.project4{
+    height: 300px;
+}
+.project4 h2{
+    color: white;
+    height: 40px;
+    width: 100%;
+    background-color: rgb(5, 5, 47);
+    margin-top: 45px;
+}
+.project4 h3{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+.project4_link p{
+    width:fit-content;
+    height: 35px;
+    font-size: 30px;
+    font-weight: bolder;
+    border: 1px solid black;
+    border-radius: 20%;
+    color: rgb(60, 122, 101);
+    background-color: black;
+}
+.project4_link a{
+    text-decoration: none; 
+}
+.project4_link{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.project4 h2 :hover{
+    font-size: 30px;
+   background-color:black;
+   
+}
